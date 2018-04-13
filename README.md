@@ -1,7 +1,7 @@
 ![Screenshot](/screenshot/ss.png?raw=true "r820tweak")
 
 
-r820tweak is a modified RTL-SDR driver that exposes the R820T2 device gain stages and filters and makes them accessible through a GUI app. 
+r820tweak is a modified RTL-SDR driver that exposes the R820T2 (R828D - maybe) device gain stages and filters and makes them accessible through a GUI app. 
 
 You just need to launch your SDR program (e.g gqrx) like this:
 
@@ -34,7 +34,7 @@ Building the program is as easy as running make:
 ## Author
 
 Milen Rangelov
-
+Medved VVS
 ## License
 
 GNU GPL
