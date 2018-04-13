@@ -34,7 +34,11 @@ Building the program is as easy as running make:
 ## Author
 
 Milen Rangelov
+
+## Patched
+
 Medved VVS
+
 ## License
 
 GNU GPL
