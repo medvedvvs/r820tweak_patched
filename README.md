@@ -30,6 +30,9 @@ Building the program is as easy as running make:
 
 `make && sudo make install`
 
+## See also
+https://github.com/medvedvvs/QwtWaterfall
+
 
 ## Author
 
